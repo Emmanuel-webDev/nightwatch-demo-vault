@@ -1,0 +1,11 @@
+{
+  "transactions": [
+    {
+      "transactionType": "CREATE",
+      "contractAddress": "0x70139e580853f6c54c976f027da3059f27e554ee",
+      "contractName": "NightWatchDemoVault",
+      "hash": "0x7e6a3354690e40033ae07111579f21ad37ca8aeeac4f23b2a53da8b98a20c061"
+    }
+  ],
+  "chain": 84532
+}
